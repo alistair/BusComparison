@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitPublish", "MassTransitPublish\MassTransitPublish.csproj", "{CB88DFF9-FAE0-4125-AE71-EBB6B6CA7D25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitSubscribe", "MassTransitSubscribe\MassTransitSubscribe.csproj", "{8FFD195B-289E-49B7-AEA5-FA38DA850D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RebusPublisher", "RebusPublisher\RebusPublisher.csproj", "{A072106B-32B4-4633-AFB4-4F2F5AB02C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RebusSubscriber", "RebusSubscriber\RebusSubscriber.csproj", "{860EAB68-A48B-4E72-A2F2-2A2B1C7FB3D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{860EAB68-A48B-4E72-A2F2-2A2B1C7FB3D5}.Debug|x86.ActiveCfg = Debug|x86
+		{860EAB68-A48B-4E72-A2F2-2A2B1C7FB3D5}.Debug|x86.Build.0 = Debug|x86
+		{860EAB68-A48B-4E72-A2F2-2A2B1C7FB3D5}.Release|x86.ActiveCfg = Release|x86
+		{860EAB68-A48B-4E72-A2F2-2A2B1C7FB3D5}.Release|x86.Build.0 = Release|x86
+		{8FFD195B-289E-49B7-AEA5-FA38DA850D12}.Debug|x86.ActiveCfg = Debug|x86
+		{8FFD195B-289E-49B7-AEA5-FA38DA850D12}.Debug|x86.Build.0 = Debug|x86
+		{8FFD195B-289E-49B7-AEA5-FA38DA850D12}.Release|x86.ActiveCfg = Release|x86
+		{8FFD195B-289E-49B7-AEA5-FA38DA850D12}.Release|x86.Build.0 = Release|x86
+		{A072106B-32B4-4633-AFB4-4F2F5AB02C03}.Debug|x86.ActiveCfg = Debug|x86
+		{A072106B-32B4-4633-AFB4-4F2F5AB02C03}.Debug|x86.Build.0 = Debug|x86
+		{A072106B-32B4-4633-AFB4-4F2F5AB02C03}.Release|x86.ActiveCfg = Release|x86
+		{A072106B-32B4-4633-AFB4-4F2F5AB02C03}.Release|x86.Build.0 = Release|x86
+		{CB88DFF9-FAE0-4125-AE71-EBB6B6CA7D25}.Debug|x86.ActiveCfg = Debug|x86
+		{CB88DFF9-FAE0-4125-AE71-EBB6B6CA7D25}.Debug|x86.Build.0 = Debug|x86
+		{CB88DFF9-FAE0-4125-AE71-EBB6B6CA7D25}.Release|x86.ActiveCfg = Release|x86
+		{CB88DFF9-FAE0-4125-AE71-EBB6B6CA7D25}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
